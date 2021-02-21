@@ -1,0 +1,460 @@
+21/Feb/2021:15:37:07 215 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:15:37:07 219 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:15:37:07 220 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:15:37:07 221 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:15:37:07 222 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.0, 2.0
+21/Feb/2021:15:37:07 223 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.0
+21/Feb/2021:15:37:07 224 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:15:37:07 225 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:15:37:07 225 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:15:37:07 226 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:15:37:07 227 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:15:37:07 227 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:15:37:07 228 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:15:37:07 228 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:15:37:07 229 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:15:37:07 230 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:15:37:07 230 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:15:37:07 231 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:15:37:07 231 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:15:37:07 233 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:15:37:07 233 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:15:37:07 234 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:15:37:07 234 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:15:37:07 235 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:15:37:07 236 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:15:37:07 237 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:15:37:07 237 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:15:37:07 238 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.3, 1.3
+21/Feb/2021:15:37:07 238 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.769230769230769
+21/Feb/2021:15:37:07 239 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:15:37:07 239 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:15:37:07 240 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:15:37:07 240 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:15:37:07 241 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:15:37:07 241 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:15:37:07 242 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:15:37:07 242 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:15:37:07 243 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:15:37:07 245 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:15:37:07 245 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:15:37:07 246 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:15:37:07 246 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:15:37:07 248 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:15:37:07 249 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:15:37:07 249 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:15:37:07 250 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:15:40:23 941 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:15:40:23 944 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:15:40:23 945 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:15:40:23 945 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:15:40:23 947 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.0, 2.0
+21/Feb/2021:15:40:23 947 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.0
+21/Feb/2021:15:40:23 948 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:15:40:23 949 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:15:40:23 949 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:15:40:23 950 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:15:40:23 950 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:15:40:23 951 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:15:40:23 952 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:15:40:23 952 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:15:40:23 953 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:15:40:23 954 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:15:40:23 954 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:15:40:23 955 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:15:40:23 955 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:15:40:23 956 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:15:40:23 956 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:15:40:23 957 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:15:40:23 957 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:15:40:23 958 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:15:40:23 959 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:15:40:23 959 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:15:40:23 960 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:15:40:23 961 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.3, 1.3
+21/Feb/2021:15:40:23 961 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.769230769230769
+21/Feb/2021:15:40:23 962 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:15:40:23 962 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:15:40:23 963 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:15:40:23 963 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:15:40:23 964 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:15:40:23 964 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:15:40:23 965 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:15:40:23 965 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:15:40:23 966 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:15:40:23 967 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:15:40:23 967 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:15:40:23 968 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:15:40:23 968 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:15:40:23 969 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:15:40:23 970 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:15:40:23 970 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:15:40:23 971 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:15:40:41 430 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:15:40:41 435 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:15:40:41 436 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:15:40:41 437 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:15:40:41 442 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.0, 2.0
+21/Feb/2021:15:40:41 443 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.0
+21/Feb/2021:15:40:41 444 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:15:40:41 445 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:15:40:41 446 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:15:40:41 446 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:15:40:41 447 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:15:40:41 448 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:15:40:41 449 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:15:40:41 450 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:15:40:41 450 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:15:40:41 452 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:15:40:41 452 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:15:40:41 453 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:15:40:41 454 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:15:40:41 455 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:15:40:41 456 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:15:40:41 456 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:15:40:41 457 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:15:40:41 458 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:15:40:41 459 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:15:40:41 459 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:15:40:41 460 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:15:40:41 461 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.3, 1.3
+21/Feb/2021:15:40:41 462 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.769230769230769
+21/Feb/2021:15:40:41 463 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:15:40:41 463 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:15:40:41 464 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:15:40:41 464 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:15:40:41 465 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:15:40:41 466 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:15:40:41 466 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:15:40:41 467 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:15:40:41 468 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:15:40:41 469 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:15:40:41 470 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:15:40:41 471 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:15:40:41 471 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:15:40:41 473 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:15:40:41 474 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:15:40:41 475 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:15:40:41 475 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:15:40:52 604 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:15:40:52 608 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:15:40:52 609 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:15:40:52 610 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:15:40:52 614 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.0, 2.0
+21/Feb/2021:15:40:52 614 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.0
+21/Feb/2021:15:40:52 615 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:15:40:52 615 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:15:40:52 616 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:15:40:52 617 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:15:40:52 617 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:15:40:52 617 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:15:40:52 618 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:15:40:52 618 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:15:40:52 618 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:15:40:52 619 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:15:40:52 620 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:15:40:52 620 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:15:40:52 621 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:15:40:52 621 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:15:40:52 622 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:15:40:52 622 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:15:40:52 623 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:15:40:52 623 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:15:40:52 624 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:15:40:52 624 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:15:40:52 624 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:15:40:52 625 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.3, 1.3
+21/Feb/2021:15:40:52 625 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.769230769230769
+21/Feb/2021:15:40:52 626 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:15:40:52 626 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:15:40:52 626 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:15:40:52 627 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:15:40:52 627 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:15:40:52 627 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:15:40:52 628 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:15:40:52 628 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:15:40:52 628 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:15:40:52 629 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:15:40:52 629 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:15:40:52 630 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:15:40:52 630 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:15:40:52 631 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:15:40:52 631 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:15:40:52 632 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:15:40:52 632 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:15:43:41 608 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:15:43:41 612 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:15:43:41 612 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:15:43:41 613 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:15:43:41 615 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.0, 2.0
+21/Feb/2021:15:43:41 615 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.0
+21/Feb/2021:15:43:41 616 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:15:43:41 616 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:15:43:41 617 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:15:43:41 618 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:15:43:41 618 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:15:43:41 619 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:15:43:41 619 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:15:43:41 620 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:15:43:41 621 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:15:43:41 622 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:15:43:41 622 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:15:43:41 623 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:15:43:41 623 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:15:43:41 624 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:15:43:41 625 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:15:43:41 625 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:15:43:41 626 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:15:43:41 627 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:15:43:41 627 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:15:43:41 627 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:15:43:41 628 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:15:43:41 629 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.3, 1.3
+21/Feb/2021:15:43:41 629 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.769230769230769
+21/Feb/2021:15:43:41 630 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:15:43:41 630 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:15:43:41 630 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:15:43:41 631 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:15:43:41 631 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:15:43:41 632 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:15:43:41 632 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:15:43:41 633 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:15:43:41 633 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:15:43:41 634 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:15:43:41 634 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:15:43:41 635 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:15:43:41 636 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:15:43:41 636 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:15:43:41 637 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:15:43:41 637 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:15:43:41 638 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:15:47:25 961 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:15:47:25 979 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:15:47:25 980 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:15:47:25 980 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:15:47:25 982 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.0, 2.0
+21/Feb/2021:15:47:25 986 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.0
+21/Feb/2021:15:47:25 998 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:15:47:25 999 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:15:47:25 999 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:15:47:26 000 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:15:47:26 001 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:15:47:26 002 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:15:47:26 003 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:15:47:26 004 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:15:47:26 005 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:15:47:26 028 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:15:47:26 030 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:15:47:26 032 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:15:47:26 039 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:15:47:26 048 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:15:47:26 052 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:15:47:26 053 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:15:47:26 055 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:15:47:26 068 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:15:47:26 070 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:15:47:26 075 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:15:47:26 076 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:15:47:26 078 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.3, 1.3
+21/Feb/2021:15:47:26 082 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.769230769230769
+21/Feb/2021:15:47:26 091 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:15:47:26 092 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:15:47:26 095 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:15:47:26 099 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:15:47:26 105 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:15:47:26 112 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:15:47:26 114 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:15:47:26 116 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:15:47:26 118 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:15:47:26 123 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:15:47:26 124 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:15:47:26 128 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:15:47:26 130 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:15:47:26 141 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:15:47:26 143 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:15:47:26 144 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:15:47:26 144 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:15:54:30 306 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:15:54:30 310 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:15:54:30 310 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:15:54:30 311 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:15:54:30 312 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.0, 2.0
+21/Feb/2021:15:54:30 312 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.0
+21/Feb/2021:15:54:30 313 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:15:54:30 313 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:15:54:30 314 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:15:54:30 314 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:15:54:30 315 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:15:54:30 315 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:15:54:30 315 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:15:54:30 316 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:15:54:30 316 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:15:54:30 317 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:15:54:30 317 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:15:54:30 317 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:15:54:30 318 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:15:54:30 318 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:15:54:30 319 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:15:54:30 319 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:15:54:30 320 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:15:54:30 321 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:15:54:30 321 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:15:54:30 321 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:15:54:30 322 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:15:54:30 322 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.3, 1.3
+21/Feb/2021:15:54:30 322 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.769230769230769
+21/Feb/2021:15:54:30 323 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:15:54:30 323 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:15:54:30 323 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:15:54:30 324 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:15:54:30 324 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:15:54:30 324 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:15:54:30 325 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:15:54:30 325 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:15:54:30 325 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:15:54:30 326 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:15:54:30 326 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:15:54:30 326 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:15:54:30 327 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:15:54:30 327 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:15:54:30 327 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:15:54:30 328 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:15:54:30 328 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:16:00:56 358 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:16:00:56 362 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:16:00:56 363 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:16:00:56 364 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:16:00:56 365 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.0, 2.0
+21/Feb/2021:16:00:56 366 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.0
+21/Feb/2021:16:00:56 366 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:16:00:56 367 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:16:00:56 367 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:16:00:56 368 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:16:00:56 369 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:16:00:56 369 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:16:00:56 370 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:16:00:56 370 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:16:00:56 371 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:16:00:56 372 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:16:00:56 373 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:16:00:56 373 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:16:00:56 374 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:16:00:56 375 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:16:00:56 376 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:16:00:56 376 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:16:00:56 377 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:16:00:56 378 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:16:00:56 379 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:16:00:56 379 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:16:00:56 380 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:16:00:56 381 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.3, 1.3
+21/Feb/2021:16:00:56 381 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.769230769230769
+21/Feb/2021:16:00:56 381 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:16:00:56 382 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:16:00:56 382 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:16:00:56 383 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:16:00:56 383 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:16:00:56 384 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:16:00:56 384 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:16:00:56 385 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:16:00:56 385 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:16:00:56 386 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:16:00:56 387 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:16:00:56 387 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:16:00:56 388 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:16:00:56 388 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:16:00:56 389 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:16:00:56 389 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:16:00:56 390 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:16:02:06 599 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:16:02:06 602 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:16:02:06 603 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:16:02:06 603 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:16:02:06 605 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.0, 2.0
+21/Feb/2021:16:02:06 605 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.0
+21/Feb/2021:16:02:06 606 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:16:02:06 607 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:16:02:06 607 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:16:02:06 608 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:16:02:06 608 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:16:02:06 609 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:16:02:06 610 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:16:02:06 610 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:16:02:06 611 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:16:02:06 611 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:16:02:06 612 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:16:02:06 612 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:16:02:06 613 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:16:02:06 614 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:16:02:06 614 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:16:02:06 615 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:16:02:06 615 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:16:02:06 616 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:16:02:06 617 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:16:02:06 617 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:16:02:06 618 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:16:02:06 618 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.3, 1.3
+21/Feb/2021:16:02:06 619 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.769230769230769
+21/Feb/2021:16:02:06 619 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:16:02:06 620 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:16:02:06 620 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:16:02:06 621 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:16:02:06 621 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:16:02:06 622 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:16:02:06 622 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:16:02:06 623 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:16:02:06 623 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:16:02:06 624 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:16:02:06 625 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:16:02:06 625 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:16:02:06 626 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:16:02:06 627 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:16:02:06 627 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:16:02:06 628 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:16:02:06 628 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:16:19:48 924 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:16:19:48 928 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:16:19:48 928 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:16:19:48 929 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:16:19:48 930 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.0, 2.0
+21/Feb/2021:16:19:48 931 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.0
+21/Feb/2021:16:19:48 931 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:16:19:48 931 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:16:19:48 932 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:16:19:48 932 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:16:19:48 933 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:16:19:48 933 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:16:19:48 934 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:16:19:48 934 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:16:19:48 934 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:16:19:48 935 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:16:19:48 936 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:16:19:48 936 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:16:19:48 937 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
+21/Feb/2021:16:19:48 937 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:16:19:48 938 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:16:19:48 938 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:16:19:48 939 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:16:19:48 940 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.0, 2.0
+21/Feb/2021:16:19:48 940 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 4.0
+21/Feb/2021:16:19:48 941 [Calculator.java] [INFO] calculator.Calculator [ADDITION] - 2.1, 3.2
+21/Feb/2021:16:19:48 941 [Calculator.java] [INFO] calculator.Calculator [RESULT - ADDITION] - 5.300000000000001
+21/Feb/2021:16:19:48 945 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 2.3, 1.3
+21/Feb/2021:16:19:48 946 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - 1.769230769230769
+21/Feb/2021:16:19:48 946 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 0.0, 0.0
+21/Feb/2021:16:19:48 947 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of NaN 0.0/0.0
+21/Feb/2021:16:19:48 949 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - NaN
+21/Feb/2021:16:19:48 949 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - 1.0, 0.0
+21/Feb/2021:16:19:48 950 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Positive Infinity 1.0/0.0
+21/Feb/2021:16:19:48 950 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - Infinity
+21/Feb/2021:16:19:48 951 [Calculator.java] [INFO] calculator.Calculator [DIVISION] - -1.0, 0.0
+21/Feb/2021:16:19:48 951 [Calculator.java] [ERROR] calculator.Calculator [EXCEPTION - DIVISION] - Cannot be divided by ZERO Case of Negative Infinity -1.0/0.0
+21/Feb/2021:16:19:48 951 [Calculator.java] [INFO] calculator.Calculator [RESULT - DIVISION] - -Infinity
+21/Feb/2021:16:19:48 952 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.0, 2.0
+21/Feb/2021:16:19:48 953 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - 0.0
+21/Feb/2021:16:19:48 953 [Calculator.java] [INFO] calculator.Calculator [SUBTRACTION] - 2.1, 3.2
+21/Feb/2021:16:19:48 954 [Calculator.java] [INFO] calculator.Calculator [RESULT - SUBTRACTION] - -1.1
+21/Feb/2021:16:19:48 954 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.0, 2.0
+21/Feb/2021:16:19:48 955 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 4.0
+21/Feb/2021:16:19:48 955 [Calculator.java] [INFO] calculator.Calculator [MULTIPLICATION] - 2.1, 3.2
+21/Feb/2021:16:19:48 956 [Calculator.java] [INFO] calculator.Calculator [RESULT - MULTIPLICATION] - 6.720000000000001
